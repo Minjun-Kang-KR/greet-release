@@ -1,4 +1,4 @@
-# greet-week10
+# greet-release
 
 A tiny command-line greeting program.
 
