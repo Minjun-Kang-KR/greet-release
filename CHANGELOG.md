@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 This project adheres to Keep a Changelog and Semantic Versioning.
 
 ## [Unreleased]
+
+## [0.2.0] - 2026-11-09
 ### Added
 - Added `greet(name, punctuation="!")`: greeting punctuation changes from fixed `!` to configurable.
 ### Fixed
